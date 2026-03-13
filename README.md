@@ -154,7 +154,3 @@ I am particularly interested in research that bridges **scientific computation a
 </p>
 
 ---
-
-<p align="center">
-“Even if no one sees, the flower still blooms.”
-</p>
