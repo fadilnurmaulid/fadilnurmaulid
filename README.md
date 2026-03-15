@@ -11,7 +11,7 @@ Computational Physics • Artificial Intelligence • Scientific Computing
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fadil-nurmaulid&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=fadilnurmaulid&style=for-the-badge"/>
 </p>
 
 ---
@@ -91,11 +91,11 @@ Physics Instrumentation undergraduate at University of Indonesia with a strong f
 # GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fadil-nurmaulid&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fadilnurmaulid&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-nurmaulid&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilnurmaulid&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ Physics Instrumentation undergraduate at University of Indonesia with a strong f
 # Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fadil-nurmaulid&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fadilnurmaulid&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ Physics Instrumentation undergraduate at University of Indonesia with a strong f
 # GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fadil-nurmaulid&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fadilnurmaulid&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -155,11 +155,11 @@ I am particularly interested in research that bridges **scientific computation a
 # Connect
 
 <p>
-<a href="https://github.com/fadil-nurmaulid">
+<a href="https://github.com/fadilnurmaulid">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/fadil-nurmaulid">
+<a href="https://linkedin.com/in/fadilnurmaulid">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
